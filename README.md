@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript type error and its solution. The error occurs when a function expects a numeric argument but receives a string. The solution involves type guards or input validation to ensure the function receives the correct type.
